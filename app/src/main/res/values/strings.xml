@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Easter Quiz</string>
+    <string name ="radioQ1Title">The custom of the Easter Egg can be traced to:</string>
+    <string name = "radioQ1Aright">The early Christians of Mesopotamia</string>
+    <string name = "radioQ1Bwrong">The late Christians of Minneapolis</string>
+    <string name = "radioQ2Title">Who created the first chocolate Easter egg in 1873?</string>
+    <string name = "radioQ2Awrong">Cry\'\s of Wales</string>
+    <string name = "radioQ2Bright">Fry\'\s of England</string>
+    <string name = "radioQ2Cwrong">Lye\'\s of Scotland</string>
+    <string name = "checkQ3Title">Check all of the correct Peep shape options:</string>
+    <string name = "checkQ3Aright">Bunnies</string>
+    <string name = "checkQ3Bwrong">Wolverines</string>
+    <string name = "checkQ3Cright">Chicks</string>
+    <string name = "checkQ3Dwrong">Leeches</string>
+    <string name = "numberQ4Title">Guess how much each US household spends on Easter:</string>
+    <string name = "radioQ5Title">The most famous decorated Easter eggs are those designed by:</string>
+    <string name = "radioQ5Awrong">Michael Peter Aubergine</string>
+    <string name = "radioQ5Bwrong">Mark E. Smith</string>
+    <string name = "radioQ5Cright">Peter Carl Faberge</string>
+    <string name = "checkQ6Title">What should be worn at Easter to bring good luck? </string>
+    <string name = "checkQ6Aright">Onion sack</string>
+    <string name = "checkQ6Bright">New clothes</string>
+    <string name = "checkQ6Cright">Knight Rider T-shirt</string>
+    <string name = "checkQ6Dright">Shoe on head</string>
+    <string name="submit">SUBMIT</string>
+
+
+</resources>
